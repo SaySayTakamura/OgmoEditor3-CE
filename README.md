@@ -47,6 +47,8 @@ npm run dist
 This builds, then packages the App into an executable.
 
 # Credits
+
+ - Ogmo CE [Ogmo Editor Community](https://github.com/Ogmo-Editor-3/OgmoEditor3-CE)
  - Created by [Maddy Thorson](https://twitter.com/MaddyThorson) and [Noel Berry](https://twitter.com/noelfb)
  - Icons & Logo by [Kyle Pulver](https://twitter.com/kylepulver)
  - Ported to Haxe and extended by [Caleb Cornett](https://twitter.com/thespydog), [Will Blanton](https://twitter.com/x01010111), and [Austin East](https://twitter.com/austinweast)
